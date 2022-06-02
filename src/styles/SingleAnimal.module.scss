@@ -1,0 +1,28 @@
+.card {
+    outline: 1px solid black;
+    padding: 10px;
+    p {
+        font-size: 13px;
+    }
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.btn {
+    cursor: pointer;
+    padding: 3px 8px;
+    
+    margin-top: 5px;
+    
+}
+
+.btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

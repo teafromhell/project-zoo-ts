@@ -1,0 +1,5 @@
+[
+    { "name": "Giraph", "power": 0, "trait": "height" },
+    { "name": "Wolf", "power": 0, "trait": "speed" },
+    { "name": "Hippo", "power": 0, "trait": "weight" }
+]

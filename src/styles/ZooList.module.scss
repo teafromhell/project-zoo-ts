@@ -1,0 +1,8 @@
+.list {
+    display: grid;
+    grid-template-columns: repeat(3, 130px);
+    gap: 10px;
+    
+    outline-style: dotted;
+    padding: 10px;
+}
